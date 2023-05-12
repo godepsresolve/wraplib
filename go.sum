@@ -1,0 +1,4 @@
+github.com/godepsresolve/corelib v1.1.0 h1:7qHbyD6/vITugfMoBtyxptj65ubYSP1k8YAJp9aRhRc=
+github.com/godepsresolve/corelib v1.1.0/go.mod h1:oVkgxTyWSWl21fLEUMrtINkVeSnp52imqRZeelJch7E=
+github.com/godepsresolve/helperlib v1.0.0 h1:Kh56mq3q++4AF61wqxb1bAiNelXBq3yIluvzHDd9jJs=
+github.com/godepsresolve/helperlib v1.0.0/go.mod h1:dXber7XOo06+oqm/LTjm6HKLzKhdkE/Jlbsr8S6vEWA=
